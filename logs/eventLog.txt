@@ -1,0 +1,4 @@
+20231012	16:35:17	c8381c76-4aab-4261-b0fd-d4ab55b4d86a	3rd log event emitted...!
+20231012	16:35:22	5fb241f3-1aee-4ad1-b968-0597a695d8fd	3rd log event emitted...!
+20231012	16:35:44	f7b930d2-8cee-4499-b458-164f05d7c6b9	3rd log event emitted...!
+20231012	16:35:54	789b6024-4ef0-4dc9-80c9-d079e7ce9827	3rd log event emitted...!
